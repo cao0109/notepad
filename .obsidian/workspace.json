@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "05bb6de03e6417d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b41128d9930d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17225c317d6dc610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kafaka.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d42f03080e20eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac4dcfef29dee872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc0671388041dec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c038e2254b4d153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da50a62e0d6e6f6c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a20dc5bf5eef00c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a6650c7c8c8597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0089ab5cbf25419",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kafaka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "682805f7524753e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kafaka.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31366ff29a78564c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c5f134c372e0e27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kafaka.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "17225c317d6dc610",
+  "lastOpenFiles": [
+    "node.js 模块化.md",
+    "AWS.md",
+    "数据库/mysql/MySQL安装.md",
+    "数据库/mysql/MySQL.assets/1660483936773.png",
+    "前后端的身份认证.md",
+    "idea-config-master/images/easy-javadoc-custom-class.png",
+    "idea-config-master/05-常用插件.md",
+    "idea-config-master/02-快捷键设置.md",
+    "设计模式.md",
+    "mongodb地图查询.md",
+    "HTTP.md",
+    "ElasticMQ本地模拟使用AWS的SQS.md",
+    "kafaka.md",
+    "Express.md",
+    "Spring Security.md",
+    "AngularJs.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
