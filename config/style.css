@@ -1,0 +1,20 @@
+pre {
+    background-color: #f7f7f7;
+    color: #4a4a4a;
+    font-family: Menlo, Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 1.5em 0;
+    padding: 1em;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border-radius: 20px;
+}
+
+code {
+    background-color: #f7f7f7;
+    color: #4a4a4a;
+    font-family: Menlo, Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    font-size: 14px;
+    padding: 0.2em 0.4em;
+}
